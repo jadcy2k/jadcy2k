@@ -1,16 +1,27 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/17450825/204814264-0bd805a3-a876-4567-8513-9730f232833b.jpeg" />
 
-<!--
-**jadcy2k/jadcy2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alf 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech stack
+
+### Core web technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+
+### Libraries and Frameworks
+
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,angular,materialui,vue,svelte,bootstrap,wordpress,jquery&perline=50" />
+
+### Infrastructure, backend, testing
+
+<img src="https://skillicons.dev/icons?i=aws,docker,webpack,php,sass,jest,mysql,mongo&perline=50" />
+
+### CI/CD and version control
+
+<img src="https://skillicons.dev/icons?i=git,gitlab,github&perline=50" />
+
+### IDEs and DEV tools
+
+<img src="https://skillicons.dev/icons?i=vscode,atom&perline=50" />
+
