@@ -2,7 +2,7 @@
 
 # Hi, I'm Alf 
 
-+20 years in Frontend development, consulting, marketing online and advertising for agencies, small and large companies such as Intercom, Cable & Wireless, AGM, Blackout, Capgemini and HERE Technologies (Navteq/Nokia) On very interesting web-portals and tools.
++20 years in Frontend development, consulting, marketing online and advertising for agencies, small and large companies such as Intercom, Cable & Wireless, AGM, Blackout, Capgemini, Navteq, Nokia and HERE Technologies, on very interesting web-portals and tools.
 
 Also been teacher of Adobe Flash, Dreamweaver, MS Office, HTML, CSS, JS, PHP, MySQL..., Leading trainings, talks and seminars in cutting-edge learning places such as Apple-Microgestió, technology forum of the Barcelona City Council, or the International University of Design also in Barcelona.
 
